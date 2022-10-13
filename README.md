@@ -3,6 +3,7 @@
 
 ### Steps to Contribute 
 
+0. Register here - https://hacktoberfest.com
 1. Fork this repo intor your account.
 2. Pull latest code 
 3. Start changes into districts/tamilnadu.csv file
