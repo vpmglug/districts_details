@@ -1,6 +1,6 @@
 
 State,District,Area,Pincode
-Tamilnadu,Cuddalore,A.Kuravankuppam ,607802
+Tamilnadu,Cuddalore,A.Kuravankuppam ,607801
 Tamilnadu,Cuddalore,Adari ,606304
 Tamilnadu,Cuddalore,Adinarayananpuram ,608801
 Tamilnadu,Cuddalore,Adur Agaram ,607302
@@ -877,8 +877,252 @@ Tamilnadu,Villupuram,Vandimedu,605602
 Tamilnadu,Villupuram,Vazhuthareddy,605401
 Tamilnadu,Tiruvannamalai,chetpet,606902
 Tamilnadu,Tiruvannamalai,Arani,632317
-
-
+Tamilnadu,Tiruvannamalai,Chengam,606701
+Tamilnadu,Dharmapuri,Vennampatti,636701
+Tamilnadu,DINDIGUL,Soolapuram B.O,639203
+Tamilnadu,DINDIGUL,19 Pudur B.O,624614
+Tamilnadu,DINDIGUL,A.Nadupatti B.O,624302
+Tamilnadu,DINDIGUL,Achanampatti B.O,624702
+Tamilnadu,DINDIGUL,Adalur B.O,624212
+Tamilnadu,DINDIGUL,Adiyanuthu B.O,624003
+Tamilnadu,DINDIGUL,Agaram B.O,624709
+Tamilnadu,DINDIGUL,Alagapuri B.O,624710
+Tamilnadu,DINDIGUL,Alamarathupatti B.O,624303
+Tamilnadu,DINDIGUL,Alambadi B.O,624620
+Tamilnadu,DINDIGUL,Alambadimines B.O,624703
+Tamilnadu,DINDIGUL,Amarapundi B.O,624613
+Tamilnadu,DINDIGUL,Ambathurai B.O,624302
+Tamilnadu,DINDIGUL,Ambathurai R.S S.O,624302
+Tamilnadu,DINDIGUL,Ambilikai S.O,624612
+Tamilnadu,DINDIGUL,Ammapatti B.O,624206
+Tamilnadu,DINDIGUL,Ammapatti B.O,624622
+Tamilnadu,DINDIGUL,Ammayanaickanur S.O,624201
+Tamilnadu,DINDIGUL,Anaipatti B.O,624219
+Tamilnadu,DINDIGUL,Anaipatti B.O,624620
+Tamilnadu,DINDIGUL,Andipatti B.O,624621
+Tamilnadu,DINDIGUL,Angunagar S.O,624001
+Tamilnadu,DINDIGUL,Anjukulipatti B.O,624308
+Tamilnadu,DINDIGUL,Appanuthu B.O,624617
+Tamilnadu,DINDIGUL,Aranmanaivalasu B.O,624616
+Tamilnadu,DINDIGUL,Arasappapillaipatti B.O,624619
+Tamilnadu,DINDIGUL,Athikombai B.O,624619
+Tamilnadu,DINDIGUL,Attur S.O,624701
+Tamilnadu,DINDIGUL,Avichipatti B.O,624401
+Tamilnadu,DINDIGUL,Avilipatti B.O,624304
+Tamilnadu,DINDIGUL,Ayakudi S.O,624613
+Tamilnadu,DINDIGUL,Ayyalur S.O,624801
+Tamilnadu,DINDIGUL,Ayyankottai B.O,624211
+Tamilnadu,DINDIGUL,Balakrishnapurampudur S.O,624005
+Tamilnadu,DINDIGUL,Balasamudram S.O,624610
+Tamilnadu,DINDIGUL,Batlagundu Bazar S.O,624202
+Tamilnadu,DINDIGUL,Batlagundu S.O,624202
+Tamilnadu,DINDIGUL,Begampur S.O,624002
+Tamilnadu,DINDIGUL,Bharathipuram S.O,624003
+Tamilnadu,DINDIGUL,Bodikamanvadi B.O,624708
+Tamilnadu,DINDIGUL,Boduvarpatti B.O,624614
+Tamilnadu,DINDIGUL,Bojanampatti B.O,624802
+Tamilnadu,DINDIGUL,Boothagudi B.O,624402
+Tamilnadu,DINDIGUL,Chatirapatti B.O,624620
+Tamilnadu,DINDIGUL,Chatrapatti S.O,624614
+Tamilnadu,DINDIGUL,Chettiapatti S.O,624314
+Tamilnadu,DINDIGUL,Chinnakalayamputhur B.O,624615
+Tamilnadu,DINDIGUL,Chinnakkampatti B.O,624712
+Tamilnadu,DINDIGUL,Chinnalapatti S.O,624301
+Tamilnadu,DINDIGUL,Chinnamandavadi B.O,624612
+Tamilnadu,DINDIGUL,Chittoor B.O,624702
+Tamilnadu,DINDIGUL,D.Gudalur B.O,624620
+Tamilnadu,DINDIGUL,Dasaripatti B.O,624614
+Tamilnadu,DINDIGUL,Devarappanpatti B.O,624204
+Tamilnadu,DINDIGUL,Devathur B.O,624614
+Tamilnadu,DINDIGUL,Dharmathupatti S.O,624714
+Tamilnadu,DINDIGUL,Dindigul Bus Stand S.O,624001
+Tamilnadu,DINDIGUL,Dindigul Collectorate S.O,624004
+Tamilnadu,DINDIGUL,Dindigul East S.O,624003
+Tamilnadu,DINDIGUL,Dindigul Fort S.O,624001
+Tamilnadu,DINDIGUL,Dindigul H.O,624001
+Tamilnadu,DINDIGUL,Dindigul North S.O,624001
+Tamilnadu,DINDIGUL,Dindigul Santhaipettai S.O,624003
+Tamilnadu,DINDIGUL,Dindigul South S.O,624001
+Tamilnadu,DINDIGUL,Emakkalapuram B.O,624304
+Tamilnadu,DINDIGUL,Eriyodu S.O,624702
+Tamilnadu,DINDIGUL,Erramanaickenpatti B.O,624613
+Tamilnadu,DINDIGUL,Ethilodu B.O,624219
+Tamilnadu,DINDIGUL,G.Thummalapatti B.O,624202
+Tamilnadu,DINDIGUL,Gandhigram S.O,624302
+Tamilnadu,DINDIGUL,Gurunathanaickanur B.O,624622
+Tamilnadu,DINDIGUL,Guziliamparai S.O,624703
+Tamilnadu,DINDIGUL,Hanumantharayankottai S.O,624054
+Tamilnadu,DINDIGUL,I.Vadipatti B.O,624616
+Tamilnadu,DINDIGUL,Idayakottai S.O,624704
+Tamilnadu,DINDIGUL,Iyyampalayam S.O,624204
+Tamilnadu,DINDIGUL,Jambudarikottai B.O,624206
+Tamilnadu,DINDIGUL,Jambuliapatti B.O,624005
+Tamilnadu,DINDIGUL,Javadhupatti B.O,624704
+Tamilnadu,DINDIGUL,Jenankottai B.O,624710
+Tamilnadu,DINDIGUL,Jogipatti B.O,624704
+Tamilnadu,DINDIGUL,Jothampatti B.O,624308
+Tamilnadu,DINDIGUL,K.Ayyapatti B.O,624308
+Tamilnadu,DINDIGUL,K.C.Patti B.O,624212
+Tamilnadu,DINDIGUL,K.Keeranur B.O,624616
+Tamilnadu,DINDIGUL,K.Pudukottai B.O,624622
+Tamilnadu,DINDIGUL,K.Rajathanikottai B.O,624206
+Tamilnadu,DINDIGUL,K.Singarakottai B.O,624708
+Tamilnadu,DINDIGUL,Kalanampatti B.O,624710
+Tamilnadu,DINDIGUL,Kalanjipatti B.O,624619
+Tamilnadu,DINDIGUL,Kalayamputhur S.O,624615
+Tamilnadu,DINDIGUL,Kalikkampatti B.O,624303
+Tamilnadu,DINDIGUL,Kallimandayam S.O,624616
+Tamilnadu,DINDIGUL,Kallipatti B.O,624709
+Tamilnadu,DINDIGUL,Kamanur B.O,624216
+Tamilnadu,DINDIGUL,Kamatchipuram B.O,624622
+Tamilnadu,DINDIGUL,Kambiliampatti B.O,624306
+Tamilnadu,DINDIGUL,Kanakkanpatti B.O,624613
+Tamilnadu,DINDIGUL,Kanalkadu B.O,624216
+Tamilnadu,DINDIGUL,Kanapadi B.O,624802
+Tamilnadu,DINDIGUL,Kanavoipatti B.O,624202
+Tamilnadu,DINDIGUL,Kanavoipatti B.O,624308
+Tamilnadu,DINDIGUL,Kanniapuram B.O,624308
+Tamilnadu,DINDIGUL,Kannivadi S.O,624705
+Tamilnadu,DINDIGUL,Kappalapatti B.O,624614
+Tamilnadu,DINDIGUL,Kappiliapatti B.O,624612
+Tamilnadu,DINDIGUL,Kariampatti B.O,624215
+Tamilnadu,DINDIGUL,Kariampatti B.O,624616
+Tamilnadu,DINDIGUL,Karikali B.O,624703
+Tamilnadu,DINDIGUL,Karikaranpudur B.O,624615
+Tamilnadu,DINDIGUL,Kasampatti B.O,624401
+Tamilnadu,DINDIGUL,Kasavanampatti B.O,624705
+Tamilnadu,DINDIGUL,Kasipalayam S.O,624711
+Tamilnadu,DINDIGUL,Kattakamanpatti B.O,624202
+Tamilnadu,DINDIGUL,Kattakoothanpatti B.O,624215
+Tamilnadu,DINDIGUL,Kattupatti B.O,624306
+Tamilnadu,DINDIGUL,Kavalapatti B.O,624621
+Tamilnadu,DINDIGUL,Kaveriammapatti B.O,624619
+Tamilnadu,DINDIGUL,Kaviakadu B.O,624212
+Tamilnadu,DINDIGUL,Kavunji B.O,624103
+Tamilnadu,DINDIGUL,Kazhutharukkipalayam B.O,624616
+Tamilnadu,DINDIGUL,Keeranur(MA) S.O,624617
+Tamilnadu,DINDIGUL,Kethaiyarumbu B.O,624619
+Tamilnadu,DINDIGUL,Kilanavayal B.O,624103
+Tamilnadu,DINDIGUL,Kilavarai B.O,624103
+Tamilnadu,DINDIGUL,Kodagipatti B.O,624403
+Tamilnadu,DINDIGUL,Kodaikanal Observatory S.O,624103
+Tamilnadu,DINDIGUL,Kodaikanal S.O,624101
+Tamilnadu,DINDIGUL,Kodaimangalam B.O,624618
+Tamilnadu,DINDIGUL,Kodairoad R.S. S.O,624206
+Tamilnadu,DINDIGUL,Kodalangadu B.O,624216
+Tamilnadu,DINDIGUL,Kodanginaickenpatti B.O,624215
+Tamilnadu,DINDIGUL,Kodangipatti B.O,624710
+Tamilnadu,DINDIGUL,Kolinjipatti B.O,624304
+Tamilnadu,DINDIGUL,Kollapatti B.O,624619
+Tamilnadu,DINDIGUL,Kollapatti B.O,624801
+Tamilnadu,DINDIGUL,Komberipatti B.O,624801
+Tamilnadu,DINDIGUL,Konapatti B.O,624304
+Tamilnadu,DINDIGUL,Konur B.O,624705
+Tamilnadu,DINDIGUL,Kookal B.O,624103
+Tamilnadu,DINDIGUL,Koovakkapatti B.O,624710
+Tamilnadu,DINDIGUL,Koovanuthu B.O,624003
+Tamilnadu,DINDIGUL,Kosavapatti B.O,624304
+Tamilnadu,DINDIGUL,Kosikurichi B.O,624401
+Tamilnadu,DINDIGUL,Kothayam B.O,624614
+Tamilnadu,DINDIGUL,Kottaipatti B.O,624403
+Tamilnadu,DINDIGUL,Kottaiyur B.O,624402
+Tamilnadu,DINDIGUL,Kottanatham B.O,624620
+Tamilnadu,DINDIGUL,Kottapatti B.O,624002
+Tamilnadu,DINDIGUL,Kottathurai B.O,624617
+Tamilnadu,DINDIGUL,Kottur B.O,624215
+Tamilnadu,DINDIGUL,Kovilammapatti B.O,624618
+Tamilnadu,DINDIGUL,Kovilur B.O,624005
+Tamilnadu,DINDIGUL,Kovilur S.O,624706
+Tamilnadu,DINDIGUL,Kulathupatti B.O,624706
+Tamilnadu,DINDIGUL,Kulathur B.O,624005
+Tamilnadu,DINDIGUL,Kullichettipatti B.O,624219
+Tamilnadu,DINDIGUL,Kumbaraiyur B.O,624202
+Tamilnadu,DINDIGUL,Kumbur B.O,624103
+Tamilnadu,DINDIGUL,Kumbur B.O,624710
+Tamilnadu,DINDIGUL,Kunnuvarankottai B.O,624220
+Tamilnadu,DINDIGUL,Kuppammalpatti B.O,624212
+Tamilnadu,DINDIGUL,Kusavapatti B.O,624802
+Tamilnadu,DINDIGUL,Kuthiluppai B.O,624712
+Tamilnadu,DINDIGUL,Kuttampundi B.O,624616
+Tamilnadu,DINDIGUL,Kuttathupatti B.O,624002
+Tamilnadu,DINDIGUL,Kuttupatti B.O,624401
+Tamilnadu,DINDIGUL,Kuzhipatti B.O,624202
+Tamilnadu,DINDIGUL,Landakottai B.O,624620
+Tamilnadu,DINDIGUL,Lingavadi B.O,624401
+Tamilnadu,DINDIGUL,M.N.Patti B.O,624002
+Tamilnadu,DINDIGUL,M.Vadipatti B.O,624211
+Tamilnadu,DINDIGUL,Ma.Athappanpatti B.O,624712
+Tamilnadu,DINDIGUL,Madur B.O,624306
+Tamilnadu,DINDIGUL,Mallanampatti B.O,624202
+Tamilnadu,DINDIGUL,Mallapuram B.O,624703
+Tamilnadu,DINDIGUL,Mallayapuram B.O,624707
+Tamilnadu,DINDIGUL,Malvarpatti B.O,624709
+Tamilnadu,DINDIGUL,Manakkattur B.O,624403
+Tamilnadu,DINDIGUL,Mandavadi B.O,624612
+Tamilnadu,DINDIGUL,Mangarai B.O,624622
+Tamilnadu,DINDIGUL,Manjalpirappu B.O,624212
+Tamilnadu,DINDIGUL,Manjanaickenpatti B.O,624614
+Tamilnadu,DINDIGUL,Mannavanur B.O,624103
+Tamilnadu,DINDIGUL,Manur B.O,624618
+Tamilnadu,DINDIGUL,Marambadi B.O,624709
+Tamilnadu,DINDIGUL,Marichilambu B.O,624613
+Tamilnadu,DINDIGUL,Markampatti B.O,624306
+Tamilnadu,DINDIGUL,Markkampatti S.O,624712
+Tamilnadu,DINDIGUL,Marunoothu B.O,624304
+Tamilnadu,DINDIGUL,Maruthanathi-project B.O,624204
+Tamilnadu,DINDIGUL,Melkaraipatti B.O,624617
+Tamilnadu,DINDIGUL,Mengles Road S.O,624001
+Tamilnadu,DINDIGUL,Mettupatti B.O,624002
+Tamilnadu,DINDIGUL,Mettupatti B.O,624616
+Tamilnadu,DINDIGUL,Metturgate B.O,624206
+Tamilnadu,DINDIGUL,Micheal Palayam B.O,624215
+Tamilnadu,DINDIGUL,Moolaiyar B.O,624210
+Tamilnadu,DINDIGUL,Moongilpatti B.O,624402
+Tamilnadu,DINDIGUL,Morepatti B.O,624802
+Tamilnadu,DINDIGUL,Mottanampatti B.O,624802
+Tamilnadu,DINDIGUL,Mulaiyur B.O,624401
+Tamilnadu,DINDIGUL,Mullipadi B.O,624005
+Tamilnadu,DINDIGUL,Munnilakottai B.O,624303
+Tamilnadu,DINDIGUL,Murunellikottai B.O,624710
+Tamilnadu,DINDIGUL,Musuvanuthu B.O,624219
+Tamilnadu,DINDIGUL,Muthalagupatti B.O,624002
+Tamilnadu,DINDIGUL,Muthanampattipudur B.O,624622
+Tamilnadu,DINDIGUL,Muthunaickenpatti B.O,624618
+Tamilnadu,DINDIGUL,N.G.O.Colony S.O,624001
+Tamilnadu,DINDIGUL,N.Panjampatti S.O,624303
+Tamilnadu,DINDIGUL,N.Paraipatti B.O,624005
+Tamilnadu,DINDIGUL,N.Pudupatti B.O,624401
+Tamilnadu,DINDIGUL,Nadakottai B.O,624220
+Tamilnadu,DINDIGUL,Nadumandalam B.O,624401
+Tamilnadu,DINDIGUL,Nadupatti B.O,624212
+Tamilnadu,DINDIGUL,Naduvanur B.O,624401
+Tamilnadu,DINDIGUL,Nagalnagar S.O,624003
+Tamilnadu,DINDIGUL,Nagayakottai B.O,624706
+Tamilnadu,DINDIGUL,Nallamanaickenpatti B.O,624003
+Tamilnadu,DINDIGUL,Nallamanarkottai B.O,624005
+Tamilnadu,DINDIGUL,Nallurkadu B.O,624212
+Tamilnadu,DINDIGUL,Nalupulikottai B.O,624619
+Tamilnadu,DINDIGUL,Narasingapuram B.O,624307
+Tamilnadu,DINDIGUL,Narikalpatti S.O,624618
+Tamilnadu,DINDIGUL,Nariyuthu B.O,624215
+Tamilnadu,DINDIGUL,Natham East S.O,624401
+Tamilnadu,DINDIGUL,Natham Koilpatti S.O,624401
+Tamilnadu,DINDIGUL,Natham S.O,624401
+Tamilnadu,DINDIGUL,Nathambazar B.O,624401
+Tamilnadu,DINDIGUL,Nathapatti B.O,624710
+Tamilnadu,Tiruchirapalli,A.A.college,621201
+Tamilnadu,Tiruchirapalli,A.Pudupatti,621308
+Tamilnadu,Tiruchirapalli,Abinimangalam,621007
+Tamilnadu,Tiruchirapalli,Adavathur,620102
+Tamilnadu,Tiruchirapalli,Adhanur,621041
+Tamilnadu,Tiruchirapalli,Adhigaram,621314
+Tamilnadu,Tiruchirapalli,Administrative Office(bhel),620014
+Tamilnadu,Tiruchirapalli,Agalanganallur,621712
+Tamilnadu,Tiruchirapalli,Aalagagoundnpatti,621310
+Tamilnadu,Tiruchirapalli,Alagapuri,621210
+Tamilnadu,Tiruchirapalli,Alagarai,621209
+Tamilnadu,Tiruchirapalli,Alagiamanavalam,621005
+Tamilnadu,Tiruchirapalli,Alambadi,621722
 State,District,Area,Pincode,
 Tamilnadu,Villupuram,Adanur  ,605402,
 Tamilnadu,Villupuram,Adavallikuthan  ,604301,
@@ -6700,4 +6944,3 @@ Tamilnadu	Karur	Vettamangalam	639117
 Tamilnadu	Karur	Viswanathapuri	639002
 Tamilnadu	Karur	West Orathai	639113
 Tamilnadu	Karur	Zamin Athur	639203
-
