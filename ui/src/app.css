@@ -1,0 +1,7 @@
+.topnavforcontainer{
+  background-color: burlywood;
+}
+.react-bootstrap-table-page-btns-ul{
+  display: flex;
+  justify-content: center;
+}
