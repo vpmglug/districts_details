@@ -8,6 +8,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import datafile from "./overall.csv";
 import Papa from "papaparse";
+import glug from "./vpm_original.png"
 import OverallTable from './OverallTable';
 const DistrictUI = () => {
     const [groupedArray,setGroupedArray] = useState([])
@@ -114,7 +115,10 @@ const DistrictUI = () => {
         <NavbarForapp/>
         <div className='bodycontent mt-5'>
             <div className='d-flex justify-content-center'>
-                <div className='d-flex flex-column'>
+                <div className='d-flex flex-row align-items-center'>
+                  <div className='glug-image mx-2'>
+                    <img src={glug} className="img-thumbnail img-circle"/>
+                  </div>
                     <h1>District area details-2022</h1>
                 </div>
             </div>
