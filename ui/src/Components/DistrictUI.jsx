@@ -6,7 +6,7 @@ import Container from 'react-bootstrap/Container';
 import NewSearch from './NewSearch';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import datafile from "./tamilnadu.csv";
+import datafile from "./overall.csv";
 import Papa from "papaparse";
 import OverallTable from './OverallTable';
 const DistrictUI = () => {
